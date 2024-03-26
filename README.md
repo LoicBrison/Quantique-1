@@ -1,4 +1,4 @@
-- cd <repo>
+- cd "repo"
 - pip install virtualenv 
 - virtualenv venv 
 - source venv/bin/activate
