@@ -1,5 +1,4 @@
 - cd "repo"
-- pip install virtualenv 
-- virtualenv venv 
+- python -m venv venv 
 - source venv/bin/activate
 - pip install -r requirements.txt
